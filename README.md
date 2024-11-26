@@ -1,30 +1,23 @@
-# React + TypeScript + Vite
+You can see and check this app here: [water-pouring-solver.vercel.app](water-pouring-solver.vercel.app)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## 🔵 Water Pouring Solver
+This app you will help you to solve the Water Pouring problem.
+You can read about the problem in this [wikipedia article.](https://en.wikipedia.org/wiki/Water_pouring_puzzle)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- With flexbox I ensured that it looks good on different types of devices: big screens🖥️, cell phones📱 and laptops💻.
+- The visual elements were tested in several browsers.
+- Test Case for validation. 
+- I ran prettier to make the code consistent throughout the application.
 
-## Expanding the ESLint configuration
+## 🏃‍♂️How to run this app?
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+🚀 First, make sure that you have node js installed, and then launch the development server:
 
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
+```bash
+npm install
+npm run dev
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+💻 Finally, you can open [localhost:5173](http://localhost:5173) with your browser to see the result.
