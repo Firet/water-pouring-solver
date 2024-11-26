@@ -1,4 +1,4 @@
-You can see and check this app here: [water-pouring-solver.vercel.app](water-pouring-solver.vercel.app)
+You can see and check this app here: [https://water-pouring-solver.vercel.app/](https://water-pouring-solver.vercel.app/)
 
 
 ## 🔵 Water Pouring Solver
