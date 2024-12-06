@@ -1,6 +1,3 @@
-You can see and check this app here: [https://water-pouring-solver.vercel.app/](https://water-pouring-solver.vercel.app/)
-
-
 ## 🔵 Water Pouring Solver
 This app you will help you to solve the Water Pouring problem.
 You can read about the problem in this [wikipedia article.](https://en.wikipedia.org/wiki/Water_pouring_puzzle)
